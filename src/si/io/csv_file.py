@@ -9,6 +9,7 @@ def read_csv(
     features=True,
     label=True
 ):
+<<<<<<< HEAD
     """
     Reads a CSV file and returns a Dataset object.
 
@@ -31,6 +32,8 @@ def read_csv(
     Dataset
         The loaded dataset.
     """
+=======
+>>>>>>> e7da523 (Restore project implementation)
 
     if features:
         data = pd.read_csv(
@@ -78,9 +81,12 @@ def write_csv(
     features=True,
     label=True
 ):
+<<<<<<< HEAD
     """
     Writes a Dataset object to a CSV file.
     """
+=======
+>>>>>>> e7da523 (Restore project implementation)
 
     data = dataset.to_dataframe()
 

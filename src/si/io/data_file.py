@@ -8,6 +8,7 @@ def read_data_file(
     sep=",",
     label=True
 ):
+<<<<<<< HEAD
     """
     Reads a data file without feature names.
 
@@ -27,6 +28,9 @@ def read_data_file(
     Dataset
         The loaded dataset.
     """
+=======
+
+>>>>>>> e7da523 (Restore project implementation)
 
     data = np.genfromtxt(
         filename,

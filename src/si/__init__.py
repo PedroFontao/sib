@@ -5,7 +5,10 @@ __version__ = "0.0.1"
 __maintainer__ = "Diogo Cachetas"
 __email__ = "diogo.cachetas@inl.int"
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e7da523 (Restore project implementation)
 __author__ = "Pedro Fontão" 
 __credits__ = ["Pedro Fontão"]
 __license__ = "Apache License 2.0"
@@ -14,3 +17,7 @@ __maintainer__ = "Pedro Fontão"
 __email__ = "pedrofontao812004@gmail.com"
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> e7da523 (Restore project implementation)
