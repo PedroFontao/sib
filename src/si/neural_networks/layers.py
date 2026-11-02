@@ -4,7 +4,7 @@ import numpy as np
 
 
 class noupdate:
-    """Optimizer falso: não altera os parâmetros."""
+    """Optimizer falso"""
 
     def update(self, w, grad):
         return w
